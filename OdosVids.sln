@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdosVids", "OdosVids\OdosVids.csproj", "{483F52CF-8018-47CE-BCE8-6B50DF4F6B36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483F52CF-8018-47CE-BCE8-6B50DF4F6B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483F52CF-8018-47CE-BCE8-6B50DF4F6B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483F52CF-8018-47CE-BCE8-6B50DF4F6B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483F52CF-8018-47CE-BCE8-6B50DF4F6B36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E38F9D8-EE27-4680-A767-5D836CE5E8A6}
+	EndGlobalSection
+EndGlobal
